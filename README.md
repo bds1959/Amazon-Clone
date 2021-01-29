@@ -11,8 +11,6 @@
 ##### [react-bootstrap for carousel](https://react-bootstrap.github.io/)
 ##### [react-styled-components for the Footer](https://styled-components.com/docs)
 
-### [Click Here To See The Application Live](https://clone-b3e04.web.app/)
-
 ## Author
 
 ### Payal Patra
