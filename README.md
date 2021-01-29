@@ -4,7 +4,7 @@
 
 # Amazon-Clone
 
-### [Demo](https://clone-b3e04.web.app/)
+### [Click Here To See The Application Live](https://clone-b3e04.web.app/)
 
 ## Author
 
