@@ -4,6 +4,13 @@
 
 # Amazon-Clone
 
+### what is different about this clone ?
+####  Well, I used 3 different styling methods to design this Clone.
+
+##### [CSS for almost all the components](https://devdocs.io/css/)
+##### [react-bootstrap for carousel](https://react-bootstrap.github.io/)
+##### [react-styled-components for the Footer](https://styled-components.com/docs)
+
 ### [Click Here To See The Application Live](https://clone-b3e04.web.app/)
 
 ## Author
